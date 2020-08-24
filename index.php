@@ -21,5 +21,8 @@ echo $value; // 'foobar'
 $cache->delete('my_cache_key');
 
 
+
+var_dump($cache) ; 
+
 ?>
 
