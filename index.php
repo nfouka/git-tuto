@@ -1,7 +1,6 @@
-
 <?php
-
 require './vendor/autoload.php' ; 
+
 
 use Symfony\Contracts\Cache\ItemInterface;
 
@@ -22,7 +21,7 @@ $cache->delete('my_cache_key');
 
 
 
-var_dump($cache) ; 
+$build = new PharColletions\FoukaCMS\Builder() ; 
 
 ?>
 
