@@ -49,4 +49,12 @@ echo "<h1>hello Cache/Symfony 5  </h1>" ;
     $fin = getmicrotime();
     echo "Page générée en ".round($fin-$debut, 3) ." secondes.<br />";
 
+$fin = getmicrotime();
+echo "Page générée en ".round($fin-$debut, 3) ." secondes.<br />";
+
+$fin = getmicrotime();
+echo "Page générée en ".round($fin-$debut, 3) ." secondes.<br />";
+
+
+
 //$cachePool->clear() ;
