@@ -1,6 +1,7 @@
 {
     "require": {
         "symfony/console": "^5.1",
-        "symfony/cache": "^5.1"
+        "symfony/cache": "^5.1",
+        "symfony/symfony": "^5.1"
     }
 }
