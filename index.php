@@ -43,7 +43,7 @@ if ($cachePool->hasItem('demo_string'))
 }
 
 
-echo "<h1>hello Cache/Symfony 4ss 2.525 </h1>" ;
+echo "<h1>hello Cache/Symfony 4ss 8589898  </h1>" ;
 
 
     $fin = getmicrotime();
@@ -57,4 +57,4 @@ echo "Page générée en ".round($fin-$debut, 3) ." secondes.<br />";
 
 
 
-//$cachePool->clear() ;
+$cachePool->clear() ;
