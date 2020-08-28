@@ -1,4 +1,4 @@
 <?php
 
 
-print "cap 2.3.1" ; 
+print "cap 2.3.10  ".$time() ; 
