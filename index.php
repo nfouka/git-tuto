@@ -1,4 +1,4 @@
 <?php
 
 
-print "cap 2.3.10  ".date() ; 
+print "cap 2.3.10  88888888888888" ; 
