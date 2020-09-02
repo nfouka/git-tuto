@@ -1,7 +1,11 @@
 {
     "require": {
-        "symfony/console": "3.1",
-        "symfony/cache": "3.1",
-        "symfony/symfony": "3.1"
+        "symfony/console": "*",
+        "symfony/cache": "*",
+        "symfony/symfony": "*",
+        "symfony/var-dumper" : "*"
     }
 }
+
+
+
