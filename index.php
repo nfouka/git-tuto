@@ -6,7 +6,7 @@ $result = $_SERVER  ;
 $result = $_SERVER  ;
 
 
-dump::dump($result);
+//dump::dump($result);
 
 ?>
 
